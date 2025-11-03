@@ -1,4 +1,4 @@
-package com.rslakra.names;
+package com.rslakra.nomen;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

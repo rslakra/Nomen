@@ -1,7 +1,7 @@
 /**
  *
  */
-package com.rslakra.names.utils;
+package com.rslakra.nomen.utils;
 
 import java.util.Collection;
 import java.util.Map;

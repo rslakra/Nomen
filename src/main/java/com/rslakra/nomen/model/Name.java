@@ -1,9 +1,9 @@
 /**
  *
  */
-package com.rslakra.names.model;
+package com.rslakra.nomen.model;
 
-import com.rslakra.names.utils.Utility;
+import com.rslakra.nomen.utils.Utility;
 
 import javax.persistence.*;
 
@@ -11,7 +11,7 @@ import javax.persistence.*;
  * @author Rohtash Lakra
  */
 @Entity
-@Table(name = "Names")
+@Table(name = "names")
 public class Name {
 
     @Id

@@ -1,9 +1,9 @@
 /**
  *
  */
-package com.rslakra.names.repository;
+package com.rslakra.nomen.repository;
 
-import com.rslakra.names.model.Name;
+import com.rslakra.nomen.model.Name;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

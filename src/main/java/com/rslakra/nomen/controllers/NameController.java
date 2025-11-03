@@ -1,10 +1,10 @@
 /**
  *
  */
-package com.rslakra.names.controllers;
+package com.rslakra.nomen.controllers;
 
-import com.rslakra.names.model.Name;
-import com.rslakra.names.services.NameService;
+import com.rslakra.nomen.model.Name;
+import com.rslakra.nomen.services.NameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

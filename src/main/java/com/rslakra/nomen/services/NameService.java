@@ -1,10 +1,10 @@
 /**
  *
  */
-package com.rslakra.names.services;
+package com.rslakra.nomen.services;
 
-import com.rslakra.names.model.Name;
-import com.rslakra.names.repository.NameRepository;
+import com.rslakra.nomen.model.Name;
+import com.rslakra.nomen.repository.NameRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

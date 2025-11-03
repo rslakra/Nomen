@@ -1,7 +1,7 @@
 /**
  *
  */
-package com.rslakra.names.controllers;
+package com.rslakra.nomen.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
