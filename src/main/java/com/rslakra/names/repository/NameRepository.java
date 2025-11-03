@@ -1,12 +1,11 @@
 /**
- * 
+ *
  */
 package com.rslakra.names.repository;
 
+import com.rslakra.names.model.Name;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-
-import com.rslakra.names.model.Name;
 
 /**
  * @author Rohtash Lakra
